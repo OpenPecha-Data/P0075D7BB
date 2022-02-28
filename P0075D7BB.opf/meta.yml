@@ -1,0 +1,26 @@
+id: P0075D7BB
+initial_creation_type: input
+source_metadata:
+  title: Dedication Series
+  language: fr
+  description: 'A selection of prayers and texts related to the transfer or dedication
+    of virtue or merit (pariṇāmana; dge ba bsngo ba), which is the seventh of the
+    seven branch practices and the third of the three noble principles:'
+  volume:
+    783f4e41eabe4dddb97940c4a837fa69:
+      title: The Three Noble Principles
+      parent: Explanation
+    cf85c71b19124e72bf25d5602ed9ee54:
+      title: Extremely Concise Dedication
+      parent: Prayers
+    c7597fecd48c43f2a855b19c721b2e7c:
+      title: Dedication (Sangye tenpa...)
+      parent: Prayers
+    d093e66177b2474c99542ea1a3a11271:
+      title: Temple Dedication Prayer
+      parent: Prayers
+    6ac51115cac947f9a3ead1d6cd9a1c5a:
+      title: Dedication from Vajravārāhī Cycle of Namchö revealed by Mingyur Dorje
+      parent: Prayers
+created_at: '2022-03-01T03:23:03.025501'
+last_modified_at: '2022-03-01T03:23:03.025504'
